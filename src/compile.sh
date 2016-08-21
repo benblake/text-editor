@@ -1,1 +1,0 @@
-g++ main.cpp file.cpp -o exe -Wall -Wextra -Wconversion -std=c++11
